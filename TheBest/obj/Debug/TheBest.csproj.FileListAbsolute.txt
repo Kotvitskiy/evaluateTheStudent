@@ -38,3 +38,43 @@ c:\users\alex\documents\visual studio 2013\Projects\TheBest\TheBest\bin\Antlr3.R
 c:\users\alex\documents\visual studio 2013\Projects\TheBest\TheBest\bin\Newtonsoft.Json.xml
 c:\users\alex\documents\visual studio 2013\Projects\TheBest\TheBest\obj\Debug\TheBest.dll
 c:\users\alex\documents\visual studio 2013\Projects\TheBest\TheBest\obj\Debug\TheBest.pdb
+C:\Users\Alex\Source\Repos\evaluateTheStudent\TheBest\bin\TheBest.dll.config
+C:\Users\Alex\Source\Repos\evaluateTheStudent\TheBest\bin\TheBest.dll
+C:\Users\Alex\Source\Repos\evaluateTheStudent\TheBest\bin\TheBest.pdb
+C:\Users\Alex\Source\Repos\evaluateTheStudent\TheBest\bin\Antlr3.Runtime.dll
+C:\Users\Alex\Source\Repos\evaluateTheStudent\TheBest\bin\Autofac.dll
+C:\Users\Alex\Source\Repos\evaluateTheStudent\TheBest\bin\Autofac.Integration.Mvc.dll
+C:\Users\Alex\Source\Repos\evaluateTheStudent\TheBest\bin\AutoMapper.dll
+C:\Users\Alex\Source\Repos\evaluateTheStudent\TheBest\bin\EntityFramework.dll
+C:\Users\Alex\Source\Repos\evaluateTheStudent\TheBest\bin\EntityFramework.SqlServer.dll
+C:\Users\Alex\Source\Repos\evaluateTheStudent\TheBest\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Alex\Source\Repos\evaluateTheStudent\TheBest\bin\Newtonsoft.Json.dll
+C:\Users\Alex\Source\Repos\evaluateTheStudent\TheBest\bin\System.Web.Helpers.dll
+C:\Users\Alex\Source\Repos\evaluateTheStudent\TheBest\bin\System.Web.Mvc.dll
+C:\Users\Alex\Source\Repos\evaluateTheStudent\TheBest\bin\System.Web.Optimization.dll
+C:\Users\Alex\Source\Repos\evaluateTheStudent\TheBest\bin\System.Web.Razor.dll
+C:\Users\Alex\Source\Repos\evaluateTheStudent\TheBest\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Alex\Source\Repos\evaluateTheStudent\TheBest\bin\System.Web.WebPages.dll
+C:\Users\Alex\Source\Repos\evaluateTheStudent\TheBest\bin\System.Web.WebPages.Razor.dll
+C:\Users\Alex\Source\Repos\evaluateTheStudent\TheBest\bin\TheBest.Business.dll
+C:\Users\Alex\Source\Repos\evaluateTheStudent\TheBest\bin\TheBest.Providers.dll
+C:\Users\Alex\Source\Repos\evaluateTheStudent\TheBest\bin\WebGrease.dll
+C:\Users\Alex\Source\Repos\evaluateTheStudent\TheBest\bin\TheBest.Business.pdb
+C:\Users\Alex\Source\Repos\evaluateTheStudent\TheBest\bin\TheBest.Providers.pdb
+C:\Users\Alex\Source\Repos\evaluateTheStudent\TheBest\bin\Autofac.xml
+C:\Users\Alex\Source\Repos\evaluateTheStudent\TheBest\bin\Autofac.Integration.Mvc.xml
+C:\Users\Alex\Source\Repos\evaluateTheStudent\TheBest\bin\AutoMapper.xml
+C:\Users\Alex\Source\Repos\evaluateTheStudent\TheBest\bin\EntityFramework.xml
+C:\Users\Alex\Source\Repos\evaluateTheStudent\TheBest\bin\EntityFramework.SqlServer.xml
+C:\Users\Alex\Source\Repos\evaluateTheStudent\TheBest\bin\System.Web.Helpers.xml
+C:\Users\Alex\Source\Repos\evaluateTheStudent\TheBest\bin\System.Web.Mvc.xml
+C:\Users\Alex\Source\Repos\evaluateTheStudent\TheBest\bin\System.Web.Optimization.xml
+C:\Users\Alex\Source\Repos\evaluateTheStudent\TheBest\bin\System.Web.Razor.xml
+C:\Users\Alex\Source\Repos\evaluateTheStudent\TheBest\bin\System.Web.WebPages.xml
+C:\Users\Alex\Source\Repos\evaluateTheStudent\TheBest\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Alex\Source\Repos\evaluateTheStudent\TheBest\bin\System.Web.WebPages.Razor.xml
+C:\Users\Alex\Source\Repos\evaluateTheStudent\TheBest\bin\Antlr3.Runtime.pdb
+C:\Users\Alex\Source\Repos\evaluateTheStudent\TheBest\bin\Newtonsoft.Json.xml
+C:\Users\Alex\Source\Repos\evaluateTheStudent\TheBest\obj\Debug\TheBest.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Source\Repos\evaluateTheStudent\TheBest\obj\Debug\TheBest.dll
+C:\Users\Alex\Source\Repos\evaluateTheStudent\TheBest\obj\Debug\TheBest.pdb

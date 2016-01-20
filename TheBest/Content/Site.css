@@ -1,6 +1,7 @@
 ﻿body {
-    marging-top: 2rem;
     height: 100%;
+    background-color: #F4F4F4;
+    font-family: 'Noto Sans', sans-serif;    
 }
 
 .body-content{
@@ -13,4 +14,83 @@
     padding-right: 10px;
     width: 80px;
     height: 80px;
+}
+
+.bor{
+    border: 1px solid #A5D4FC !important;    
+    padding: 30px;
+}
+
+.user-row{
+    padding: 30px;
+}
+
+.user-image{
+    border-radius: 10px;
+}
+
+.user-row .message{
+    margin-top: 20px !important;
+    box-shadow: none;
+}
+
+.user-name{
+    font-size: 2em;
+    font-family: 'Noto Sans', sans-serif;    
+}
+
+.user-group{
+    font-size: 1.5em !important;
+    font-family: 'Noto Sans', sans-serif !important;    
+}
+
+hr{
+     display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 1em 0;
+    padding: 0;
+    padding-top: 10px;
+    padding-bottom: 10px; 
+}
+
+.bor{
+    padding-top: 50px !important;
+    padding-left: 50px !important;
+    padding-right: 50px !important;
+    padding-bottom: 50px !important;
+}
+
+i.icon.pointing.down,
+i.icon.wizard,
+i.down.icon,
+.up.icon{
+    font-size: 2em;
+}
+
+.my-header{
+    text-transform: uppercase;
+    font-size: 1.3em;
+}
+
+.progress-block,
+.evaluate-block{
+    margin-top: 30px;
+}
+
+.progress-header,
+.evaluate-header{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: #818181;
+}
+
+.user-group p{
+    color: #818181;
+}
+
+.separator{
+    padding-left: 10px;
+    padding-right: 10px;
 }

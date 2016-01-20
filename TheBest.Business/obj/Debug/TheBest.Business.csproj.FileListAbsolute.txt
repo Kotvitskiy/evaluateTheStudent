@@ -14,3 +14,19 @@ c:\Users\Alex\documents\visual studio 2013\Projects\TheBest\TheBest.Business\bin
 c:\Users\Alex\documents\visual studio 2013\Projects\TheBest\TheBest.Business\obj\Debug\TheBest.Business.dll
 c:\Users\Alex\documents\visual studio 2013\Projects\TheBest\TheBest.Business\obj\Debug\TheBest.Business.pdb
 c:\Users\Alex\documents\visual studio 2013\Projects\TheBest\TheBest.Business\obj\Debug\TheBest.Business.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Source\Repos\evaluateTheStudent\TheBest.Business\bin\Debug\TheBest.Business.dll.config
+C:\Users\Alex\Source\Repos\evaluateTheStudent\TheBest.Business\bin\Debug\TheBest.Business.dll
+C:\Users\Alex\Source\Repos\evaluateTheStudent\TheBest.Business\bin\Debug\TheBest.Business.pdb
+C:\Users\Alex\Source\Repos\evaluateTheStudent\TheBest.Business\bin\Debug\Autofac.dll
+C:\Users\Alex\Source\Repos\evaluateTheStudent\TheBest.Business\bin\Debug\Autofac.Integration.Mvc.dll
+C:\Users\Alex\Source\Repos\evaluateTheStudent\TheBest.Business\bin\Debug\AutoMapper.dll
+C:\Users\Alex\Source\Repos\evaluateTheStudent\TheBest.Business\bin\Debug\EntityFramework.dll
+C:\Users\Alex\Source\Repos\evaluateTheStudent\TheBest.Business\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Alex\Source\Repos\evaluateTheStudent\TheBest.Business\bin\Debug\Autofac.xml
+C:\Users\Alex\Source\Repos\evaluateTheStudent\TheBest.Business\bin\Debug\Autofac.Integration.Mvc.xml
+C:\Users\Alex\Source\Repos\evaluateTheStudent\TheBest.Business\bin\Debug\AutoMapper.xml
+C:\Users\Alex\Source\Repos\evaluateTheStudent\TheBest.Business\bin\Debug\EntityFramework.xml
+C:\Users\Alex\Source\Repos\evaluateTheStudent\TheBest.Business\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Alex\Source\Repos\evaluateTheStudent\TheBest.Business\obj\Debug\TheBest.Business.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Source\Repos\evaluateTheStudent\TheBest.Business\obj\Debug\TheBest.Business.dll
+C:\Users\Alex\Source\Repos\evaluateTheStudent\TheBest.Business\obj\Debug\TheBest.Business.pdb

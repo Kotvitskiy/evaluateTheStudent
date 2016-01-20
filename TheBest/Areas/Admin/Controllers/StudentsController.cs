@@ -32,7 +32,7 @@ namespace TheBest.Areas.Admin.Controllers
             var converter = ObjectManager.GetInstance<ImageConverter>();
 
             ConvertImage(imageFile, model.Name, 80, 80);
-            ConvertImage(imageFile, model.Name, 166, 167, false);
+            ConvertImage(imageFile, model.Name, 145, 145, false);
 
             var student = Mapper.Map<StudentViewModel, Student>(model);
 

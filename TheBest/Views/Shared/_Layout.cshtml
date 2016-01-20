@@ -5,9 +5,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>@ViewBag.Title - My ASP.NET Application</title>
     @*@Styles.Render("~/Content/css")*@
-    @Styles.Render("~/Content/Site.css")
-    @Styles.Render("~/bundles/Semanticcss")
+
+    @*@Styles.Render("~/bundles/Semanticcss")*@
+    @Styles.Render("~/Content/semantic.css")
     @Styles.Render("~/bundles/modernizr")
+    @Styles.Render("~/Content/Site.css")
+    <link href='https://fonts.googleapis.com/css?family=Noto+Sans:400,700&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
 </head>
 <body>
     @Html.Partial("_Header")
