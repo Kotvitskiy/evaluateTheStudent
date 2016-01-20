@@ -1,0 +1,48 @@
+﻿@model IEnumerable<TheBest.Models.Entities.StudentViewModel>
+
+@{
+    ViewBag.Title = "List";
+}
+
+
+<div class="ui grid">
+    <div class="three wide column"></div>
+    <div class="ten wide column student-menu">
+            <div class="ui top attached tabular menu">
+                <a class="item active" data-tab="first">Рейтинг</a>
+                <a class="item" data-tab="second">Очікують оцінення</a>
+            </div>
+            <div class="ui bottom attached tab segment student-list" data-tab="first">
+
+                <div class="ui huge header centered">Рейтинг студентів</div>
+
+                <div class="ui items">                 
+                    @foreach (var student in Model)
+                    {
+                        <div class="item">
+                                <a class="ui tiny image student-image">
+                                    <img src="@student.IconUrl" alt="photo.jpg"/>
+                                </a>
+                                <div class="content">
+                                    <a class="header" href="@Url.Action("Details", new { id = student.Id})">@student.Name</a><br/>
+                                    <div class="description">
+                                        Студент группи <b>@student.Group</b>
+                                        <div>Кількість білів: @student.Rate</div>
+                                    </div>
+                                </div>
+                            </div>
+                    }
+                </div>
+            </div>
+            <div class="ui bottom attached tab segment" data-tab="second">
+                123
+            </div>
+    </div>
+    <div class="three wide column"></div>
+</div>
+
+
+
+
+
+

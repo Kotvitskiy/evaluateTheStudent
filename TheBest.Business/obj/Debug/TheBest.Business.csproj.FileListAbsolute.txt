@@ -1,0 +1,16 @@
+c:\Users\Alex\documents\visual studio 2013\Projects\TheBest\TheBest.Business\bin\Debug\TheBest.Business.dll.config
+c:\Users\Alex\documents\visual studio 2013\Projects\TheBest\TheBest.Business\bin\Debug\TheBest.Business.dll
+c:\Users\Alex\documents\visual studio 2013\Projects\TheBest\TheBest.Business\bin\Debug\TheBest.Business.pdb
+c:\Users\Alex\documents\visual studio 2013\Projects\TheBest\TheBest.Business\bin\Debug\Autofac.dll
+c:\Users\Alex\documents\visual studio 2013\Projects\TheBest\TheBest.Business\bin\Debug\Autofac.Integration.Mvc.dll
+c:\Users\Alex\documents\visual studio 2013\Projects\TheBest\TheBest.Business\bin\Debug\AutoMapper.dll
+c:\Users\Alex\documents\visual studio 2013\Projects\TheBest\TheBest.Business\bin\Debug\EntityFramework.dll
+c:\Users\Alex\documents\visual studio 2013\Projects\TheBest\TheBest.Business\bin\Debug\EntityFramework.SqlServer.dll
+c:\Users\Alex\documents\visual studio 2013\Projects\TheBest\TheBest.Business\bin\Debug\Autofac.xml
+c:\Users\Alex\documents\visual studio 2013\Projects\TheBest\TheBest.Business\bin\Debug\Autofac.Integration.Mvc.xml
+c:\Users\Alex\documents\visual studio 2013\Projects\TheBest\TheBest.Business\bin\Debug\AutoMapper.xml
+c:\Users\Alex\documents\visual studio 2013\Projects\TheBest\TheBest.Business\bin\Debug\EntityFramework.xml
+c:\Users\Alex\documents\visual studio 2013\Projects\TheBest\TheBest.Business\bin\Debug\EntityFramework.SqlServer.xml
+c:\Users\Alex\documents\visual studio 2013\Projects\TheBest\TheBest.Business\obj\Debug\TheBest.Business.dll
+c:\Users\Alex\documents\visual studio 2013\Projects\TheBest\TheBest.Business\obj\Debug\TheBest.Business.pdb
+c:\Users\Alex\documents\visual studio 2013\Projects\TheBest\TheBest.Business\obj\Debug\TheBest.Business.csprojResolveAssemblyReference.cache

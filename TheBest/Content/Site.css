@@ -1,0 +1,16 @@
+﻿body {
+    marging-top: 2rem;
+    height: 100%;
+}
+
+.body-content{
+    margin-top: 30px;
+}
+
+
+/*student-card*/
+.student-image{
+    padding-right: 10px;
+    width: 80px;
+    height: 80px;
+}
