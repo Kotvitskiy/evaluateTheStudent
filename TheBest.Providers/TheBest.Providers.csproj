@@ -65,6 +65,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Providers\DataProviderBase.cs" />
     <Compile Include="Providers\EvaluatorsDataProvider.cs" />
+    <Compile Include="Providers\QuestionDataProvider.cs" />
     <Compile Include="Providers\StudentsDataProvider.cs" />
   </ItemGroup>
   <ItemGroup>

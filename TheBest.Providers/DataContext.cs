@@ -5,6 +5,7 @@ using System.Data.Entity;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using TheBest.Business.Entities;
 
 namespace TheBest.EntityProviders
 {
@@ -18,5 +19,9 @@ namespace TheBest.EntityProviders
         public DbSet<Student> Students { get; set; }
 
         public DbSet<Evaluator> Evaluators { get; set; }
+
+        public DbSet<Question> Questions { get; set; }
+
+        public DbSet<Answer> Answers { get; set; }
     }
 }

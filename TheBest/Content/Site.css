@@ -69,6 +69,10 @@ i.down.icon,
     font-size: 2em;
 }
 
+i.arrow.right{
+    font-size: 2.5em;
+}
+
 .my-header{
     text-transform: uppercase;
     font-size: 1.3em;
@@ -95,6 +99,7 @@ i.down.icon,
     padding-right: 10px;
 }
 
+<<<<<<< Updated upstream
 .modify-buttons {
     min-width: 100px;
 }
@@ -115,3 +120,12 @@ i.down.icon,
     text-align: center;
     margin: 5px;
 }
+=======
+div.submit-arrow{
+        margin-top: 15%;
+    position: absolute !important;
+    right: 49%;
+    top: 40%;
+}
+
+>>>>>>> Stashed changes
