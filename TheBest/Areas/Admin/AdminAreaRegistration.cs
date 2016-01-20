@@ -33,6 +33,12 @@ namespace TheBest.Areas.Admin
            );
 
             context.MapRoute(
+               "admin_student_delete",
+               "admin/students/delete",
+               new { action = "Delete", controller = "Students" }
+           );
+
+            context.MapRoute(
                 "Admin_default",
                 "admin",
                 new { action = "List", controller = "Students", id = UrlParameter.Optional }

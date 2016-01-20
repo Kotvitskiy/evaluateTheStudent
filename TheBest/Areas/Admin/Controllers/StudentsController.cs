@@ -60,6 +60,13 @@ namespace TheBest.Areas.Admin.Controllers
             return RedirectToAction("List");
         }
 
+        public ActionResult Delete(string id)
+        {
+            Site.Providers.StudentsProvider.Delete(id);
+
+            return RedirectToAction("List");
+        }
+
         public void UpdateModel(Student student, string iconPath, string thumbnailPath)
         {
             student.Id = Guid.NewGuid().ToString();
@@ -79,6 +86,5 @@ namespace TheBest.Areas.Admin.Controllers
                 converter.SaveImage(resizedImage, fileName, icon);
             }
         }
-
     }
 }
